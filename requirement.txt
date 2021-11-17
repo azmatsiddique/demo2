@@ -1,0 +1,7 @@
+pillow
+keras
+requests
+tensorflow
+keras
+numpy
+matplotlib
